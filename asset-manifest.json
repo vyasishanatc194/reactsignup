@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/reactsignup/static/css/main.530b5742.chunk.css",
+    "main.js": "/reactsignup/static/js/main.ab6731d1.chunk.js",
+    "main.js.map": "/reactsignup/static/js/main.ab6731d1.chunk.js.map",
+    "runtime-main.js": "/reactsignup/static/js/runtime-main.f91c1724.js",
+    "runtime-main.js.map": "/reactsignup/static/js/runtime-main.f91c1724.js.map",
+    "static/css/2.b21f750b.chunk.css": "/reactsignup/static/css/2.b21f750b.chunk.css",
+    "static/js/2.7009f672.chunk.js": "/reactsignup/static/js/2.7009f672.chunk.js",
+    "static/js/2.7009f672.chunk.js.map": "/reactsignup/static/js/2.7009f672.chunk.js.map",
+    "index.html": "/reactsignup/index.html",
+    "precache-manifest.11c8d35aaccb522b92f2c1f8ac43cd40.js": "/reactsignup/precache-manifest.11c8d35aaccb522b92f2c1f8ac43cd40.js",
+    "service-worker.js": "/reactsignup/service-worker.js",
+    "static/css/2.b21f750b.chunk.css.map": "/reactsignup/static/css/2.b21f750b.chunk.css.map",
+    "static/css/main.530b5742.chunk.css.map": "/reactsignup/static/css/main.530b5742.chunk.css.map",
+    "static/js/2.7009f672.chunk.js.LICENSE.txt": "/reactsignup/static/js/2.7009f672.chunk.js.LICENSE.txt",
+    "static/media/semantic.min.css": "/reactsignup/static/media/outline-icons.ef60a4f6.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f91c1724.js",
+    "static/css/2.b21f750b.chunk.css",
+    "static/js/2.7009f672.chunk.js",
+    "static/css/main.530b5742.chunk.css",
+    "static/js/main.ab6731d1.chunk.js"
+  ]
+}
